@@ -1,2 +1,7 @@
 windows -> python название_файла.py
 mac -> python3 main.py
+
+
+git add .
+git commit -m "sdsdsdd"
+git push origin master
