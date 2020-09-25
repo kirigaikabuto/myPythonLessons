@@ -1,0 +1,2 @@
+windows -> python название_файла.py
+mac -> python3 main.py
